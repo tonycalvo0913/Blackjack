@@ -27,9 +27,6 @@ void displayMenu(){
 	cout << "2) Play" << endl; //output
 }
 
-
-
-
 int main()
 {
     int firstCard, newCard;
