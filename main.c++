@@ -34,7 +34,7 @@ int main()
         if (total == 21)
             cout << "Blackjack! You win" << endl;
         
-        if (total >= 21) 
+        else if (total >= 21) 
         {
             cout << "Bust!!" << endl;
             cout << "Your hand is over" << endl;
